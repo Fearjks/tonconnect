@@ -1,0 +1,7 @@
+{
+  "url": "https://t.me/TheOpenTools",                        // required
+  "name": "The Open Tools",                      // required
+  "iconUrl": "https://i.ibb.co/QQSd3gm/Logo.png",               // required
+  "termsOfUseUrl": "<terms-of-use-url>",     // optional
+  "privacyPolicyUrl": "<privacy-policy-url>" // optional
+}
